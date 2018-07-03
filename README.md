@@ -23,6 +23,6 @@
     * 트리 구조, 웹하드
 * 전국
   * 경기
-    * [4과제](https://github.com/JunilHwang/webskills/tree/master/2017/national/kk_4_20180703)
-      * 핵심기술 : [Diff](https://github.com/JunilHwang/webskills/tree/master/2017/national/kk_4_20180703/application/core/Diff.php)
+    * [4과제](https://github.com/JunilHwang/webskills/tree/master/2018/national/kk_4_20180703)
+      * 핵심기술 : [Diff](https://github.com/JunilHwang/webskills/tree/master/2018/national/kk_4_20180703/application/core/Diff.php)
 ***
