@@ -17,9 +17,9 @@
 
 ## 2018
 * 지방
-  * [3과제](https://github.com/JunilHwang/webskills/tree/master/2018/comporee/client)
+  * [3과제](https://github.com/JunilHwang/webskills/tree/master/2018/camporee/client)
     * masonry layout
-  * [4과제](https://github.com/JunilHwang/webskills/tree/master/2018/comporee/server)
+  * [4과제](https://github.com/JunilHwang/webskills/tree/master/2018/camporee/server)
     * 트리 구조, 웹하드
 * 전국
   * 경기
