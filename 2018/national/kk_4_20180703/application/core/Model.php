@@ -15,7 +15,7 @@ class Model {
 	}
 
 	function init () {
-		$this->db = new PDO("mysql:host=127.0.0.1;dbname=20180619;charset=utf8","root","");
+		$this->db = new PDO("mysql:host=127.0.0.1;dbname=kk_4_20180703;charset=utf8","root","");
 		$this->db->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_OBJ);
 	}
 
